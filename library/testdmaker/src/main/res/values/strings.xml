@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TestDMaker</string>
+    <string-array name="list">
+        <item >test 1</item>
+        <item >test 2</item>
+        <item >test 3</item>
+        <item >test 4</item>
+        <item >test 5</item>
+
+        <item >test 6</item>
+        <item >test 7</item>
+        <item >test 8</item>
+
+        <item >test 9</item>
+        <item >test 10</item>
+        <item >test 11</item>
+
+    </string-array>
+    <string-array name="list_images">
+        <item >http://vignette1.wikia.nocookie.net/sakuracardcaptors/images/e/ee/Sakura_anime.jpg/revision/latest/scale-to-width-down/280?cb=20150529182027&amp;path-prefix=es</item>
+        <item >http://static.tumblr.com/98bb6bcb275fbb67db62a2ff4f979273/d9no60s/ewjn8lfd6/tumblr_static_2z1bnjf2k6eccco8ows4sgc4g.jpg</item>
+        <item >http://vignette2.wikia.nocookie.net/sakuracardcaptors/images/f/f0/Cardcaptor_Sakura_The_Sealed_Card_-_Original_Soundtrack.jpg/revision/latest?cb=20110729205011&amp;path-prefix=es</item>
+        <item >http://3.bp.blogspot.com/-BU_lw82ib4U/Tf_E4n03XJI/AAAAAAAAT-o/foBkzpAe7uU/s1600/Card_captor_sakura-004.jpg</item>
+        <item >http://images2.wikia.nocookie.net/__cb20120604002432/sakuracardcaptors/es/images/f/f0/Ccs3mini74-75.jpg</item>
+
+        <item >http://mangimee.weebly.com/uploads/1/2/7/6/12768823/5085975_orig.jpg</item>
+        <item >http://images6.fanpop.com/image/photos/37200000/Cardcaptor-Sakura-anime-37234424-900-675.jpg</item>
+        <item >http://www.ipicstorage.com/images/card-captor-sakura/cc4b81cc8d69db525df5ad0f712b214a.jpg</item>
+
+        <item >http://40.media.tumblr.com/84a76c3b8a900b2bf10f2bd51cd93d69/tumblr_inline_nxnv8lOzPI1tpgwgf_1280.jpg</item>
+        <item >http://2.bp.blogspot.com/-lozpA77jdew/TiN4VESsEXI/AAAAAAAAAJM/XoqkefwcHOs/s1600/351.jpg</item>
+        <item >http://images2.fanpop.com/images/photos/5600000/Sakura-cardcaptor-sakura-5629813-1024-768.jpg</item>
+
+    </string-array>
+</resources>

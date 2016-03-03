@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DMaker</string>
+    <string name="dialog_marker_empty_content">Empty Content</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_maker_corner_radius">@dimen/dialog_maker_small_size</dimen>
+    <dimen name="dialog_maker_extra_small_size">2dp</dimen>
+    <dimen name="dialog_maker_small_size">4dp</dimen>
+    <dimen name="dialog_maker_medium_size">8dp</dimen>
+    <dimen name="dialog_maker_large_size">16dp</dimen>
+
+    <dimen name="dialog_maker_title_padding_size">24dp</dimen>
+    <dimen name="dialog_maker_content_padding">24dp</dimen>
+    <dimen name="dialog_maker_content_padding_top">20dp</dimen>
+    <dimen name="dialog_maker_content_width">280dp</dimen>
+    <dimen name="dialog_maker_content_max_height">400dp</dimen>
+    <dimen name="dialog_maker_action_area_height">52dp</dimen>
+    <dimen name="dialog_maker_title_size">20dp</dimen>
+    <dimen name="dialog_maker_button_text_size">14dp</dimen>
+    <dimen name="dialog_maker_item_image_size">40dp</dimen>
+</resources>

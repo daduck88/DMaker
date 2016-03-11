@@ -1,0 +1,18 @@
+ext {
+    libraryName = 'DMaker'
+    libraryDescription = 'Android library to use material dialogs'
+
+    bintrayName = 'maven'
+
+    repositoryUrl = 'https://github.com/daduck88/DMaker'
+
+    mavenGroup = 'com.daduck88'
+    mavenArtifactId = 'd-maker'
+    mavenVersion = '0.1.0'
+
+    bintrayOrg = 'daduck88'
+
+    developerId = 'daduck88'
+    developerName = 'David Cardozo'
+    developerEmail = 'daduck88@gmail.com'
+}
